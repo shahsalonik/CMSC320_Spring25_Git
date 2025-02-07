@@ -5,4 +5,4 @@ Additionally, Git lets you track changes made to files over time, which can then
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data science can be applied to a variety of diferent fields. One example of is it being applied to the healthcare industry during a pandemic. Healthcare professionals could analyze a large amount of patient data to determine when/where outbreaks may occur based on sickness trends.
+Answer: Data science can be applied to a variety of diferent fields. One example of is it being applied to the healthcare industry during a pandemic. Healthcare professionals could analyze a large amount of patient data to determine when/where outbreaks may occur based on sickness and patient trends.
